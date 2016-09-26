@@ -1,0 +1,24 @@
+* {
+    font-family: Tahoma, serif;
+}
+a {
+    color: #0074A2;
+}
+a:hover {
+    color: #003300;
+}
+.bar {
+    border: 4px solid red;
+}
+.bar b {
+    color: #FF3399 ;
+}
+.b {
+    font-weight: bold;
+}
+.i {
+    font-style: italic;
+}
+.u {
+    text-decoration: underline;
+}
